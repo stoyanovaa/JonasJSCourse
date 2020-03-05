@@ -1,0 +1,2 @@
+what is transpiler - reads from one language and traspiles to other.
+babel is a transpiler
