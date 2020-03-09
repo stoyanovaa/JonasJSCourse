@@ -1,2 +1,5 @@
 what is transpiler - reads from one language and traspiles to other.
 babel is a transpiler
+
+Webpack will bundle a js file for us. It can understand the dependencies between our js files
+by building a dependency graph.

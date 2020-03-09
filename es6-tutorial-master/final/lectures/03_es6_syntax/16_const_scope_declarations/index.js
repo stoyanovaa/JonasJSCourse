@@ -8,3 +8,10 @@ array.push(4);
 console.log('array', array); // valid
 
 array = [1]; // error
+
+const x = 1;
+
+{
+    var x = 5; //SyntaxError: Identifier 'x' has already been declared
+    const x = 2; // SyntaxError: Identifier 'x' has already been declared
+}
